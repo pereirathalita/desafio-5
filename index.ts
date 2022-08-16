@@ -21,3 +21,4 @@ type Cachorrro = {
     região: string; 
   }
 
+// ex 3

@@ -7,7 +7,7 @@ const hojeFezSol: boolean = true;
 // ex 2
 
 type Cachorrro = {
-    nome: string;
+    nome: string = "Ariel";
     idade: number;
     raça: string;
     grandePorte: string;

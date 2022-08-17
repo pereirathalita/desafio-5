@@ -22,3 +22,7 @@ type Cachorrro = {
   }
 
 // ex 3
+// Criar um type com a função Omit, uma com Partial  e uma com Optional
+
+// ex 4
+// Avaliar o que foi criado

@@ -11,13 +11,13 @@
 
 
 ### :heavy_check_mark: definir tipos:
-- [ ] Exercicio 1:
+- [x] Exercicio 1:
 ```js
 const primeiroNome = "seu nome";
 const diaDoMes = 12;
 const hojeFezSol = true;
 ```
-- [ ] Exercicio 2:
+- [x] Exercicio 2:
 ```js
 type Cachorrro = {
   nome: ?
